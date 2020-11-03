@@ -1,4 +1,4 @@
-# Seed package for Lab1
+# Seed package for test.Lab 
 Npm package to be used for Lab1
 
 ## How to clone it
